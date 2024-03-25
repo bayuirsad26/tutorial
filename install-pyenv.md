@@ -35,7 +35,7 @@ pyenv --version
 If the installation was successful, you should see the version of `pyenv` printed to the terminal.
 
 ### 5. Install Python Versions
-Now, you can install different versions of Python. For example, to install Python 3.9.1, you would use:
+Now, you can install different versions of Python. For example, to install Python 3.12.0, you would use:
 
 ```sh
 pyenv install 3.12.0
